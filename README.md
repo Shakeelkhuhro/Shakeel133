@@ -1,4 +1,4 @@
-<!-- ![logo](LINK HERE) -->
+![logo](https://github.com/Shakeel133/Shakeel133/blob/main/Shakeel%20Ahmed%20(4).png)
 <h1 align="center">Hi 👋, I'm Shakeel Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Sindh Pakistan</h3>
 
